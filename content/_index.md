@@ -2,4 +2,4 @@
 title: "欢迎来到 Congo！"
 description: "这是向主页添加内容的演示。"
 ---
-欢迎来到我的网站！我真的很高兴你停留在这里。
+Welcome to my skeches.
